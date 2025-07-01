@@ -26,58 +26,34 @@ With experience in classification, clustering, time series forecasting, and deep
 
 ### 🛠 Tech Stack
 
-<section id="skills" style="padding: 2rem; max-width: 800px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h2 style="text-align:center; margin-bottom: 1.5rem; color: #2c3e50;">Skills & Expertise</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap: 1.5rem;">
+## 🚀 Skills & Expertise
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);">
-      <h3 style="color: #2980b9;">🖥️ Programming Languages</h3>
-      <p>Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)</p>
-      <p>SQL | R | CSS | HTML</p>
-    </div>
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);">
-      <h3 style="color: #27ae60;">🔍 Data Analysis & Manipulation</h3>
-      <ul style="padding-left: 1rem; margin: 0;">
-        <li>Data Cleaning & Wrangling</li>
-        <li>Feature Engineering</li>
-        <li>Data Modeling</li>
-      </ul>
-    </div>
+### 🔍 Data Analysis & Manipulation  
+Data Cleaning | Data Wrangling | Feature Engineering | Data Modeling
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);">
-      <h3 style="color: #e67e22;">📊 Data Visualization</h3>
-      <p>Power BI | Tableau | Matplotlib | Seaborn | Excel (Pivot Tables, VLOOKUP)</p>
-    </div>
+### 📊 Data Visualization  
+Power BI | Tableau | Matplotlib | Seaborn | Excel (Pivot Tables, VLOOKUP)
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);">
-      <h3 style="color: #9b59b6;">🤖 Machine Learning & AI</h3>
-      <ul style="padding-left: 1rem; margin: 0;">
-        <li>Supervised & Unsupervised Learning</li>
-        <li>Neural Networks: CNNs, RNNs, Transformers</li>
-      </ul>
-    </div>
+### 🤖 Machine Learning & AI  
+Supervised & Unsupervised Learning | Neural Networks (CNNs, RNNs, Transformers)
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);">
-      <h3 style="color: #16a085;">☁️ Big Data & Cloud</h3>
-      <p>Apache Spark | Snowflake | AWS (S3, Lambda, SageMaker, Redshift)</p>
-    </div>
+### ☁️ Big Data & Cloud  
+Apache Spark | Snowflake | AWS (S3, Lambda, SageMaker, Redshift)
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1);">
-      <h3 style="color: #34495e;">🗄️ Database Management</h3>
-      <p>MySQL | PostgreSQL</p>
-    </div>
+### 🗄️ Databases  
+MySQL | PostgreSQL
 
-    <div style="background: #f0f4f8; padding: 1rem; border-radius: 8px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.1); grid-column: span 2;">
-      <h3 style="color: #c0392b;">🌟 Soft Skills</h3>
-      <p>Critical Thinking | Communication | Stakeholder Engagement | Time Management | System Design Thinking</p>
-    </div>
+### 🌟 Soft Skills  
+Critical Thinking | Communication | Stakeholder Engagement | Time Management | System Design Thinking
 
-  </div>
-</section>
-
-
-
+     
 ### 🧘 Outside of Data
 
 When I’m not coding, I lead yoga classes, create digital content, or explore data-driven storytelling. I believe in blending wellness and tech for a balanced, impactful life.
