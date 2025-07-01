@@ -24,34 +24,33 @@ With experience in classification, clustering, time series forecasting, and deep
 
 ---
 
-### 🛠 Tech Stack
-
 ## 🚀 Skills & Expertise
 
 ### 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Python:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+**SQL | R | CSS | HTML**
 
 ### 🔍 Data Analysis & Manipulation  
-Data Cleaning | Data Wrangling | Feature Engineering | Data Modeling
+- Data Cleaning & Wrangling  
+- Feature Engineering  
+- Data Modeling  
 
 ### 📊 Data Visualization  
 Power BI | Tableau | Matplotlib | Seaborn | Excel (Pivot Tables, VLOOKUP)
 
 ### 🤖 Machine Learning & AI  
-Supervised & Unsupervised Learning | Neural Networks (CNNs, RNNs, Transformers)
+- Supervised & Unsupervised Learning  
+- Neural Networks: CNNs, RNNs, Transformers  
 
-### ☁️ Big Data & Cloud  
+### ☁️ Big Data & Cloud Technologies  
 Apache Spark | Snowflake | AWS (S3, Lambda, SageMaker, Redshift)
 
-### 🗄️ Databases  
+### 🗄️ Database Management  
 MySQL | PostgreSQL
 
 ### 🌟 Soft Skills  
-Critical Thinking | Communication | Stakeholder Engagement | Time Management | System Design Thinking
+Critical Thinking | Communication | Stakeholder Engagement | Time Management | System Design Thinking  
+
 
      
 ### 🧘 Outside of Data
