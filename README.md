@@ -60,5 +60,5 @@ When I’m not coding, I lead yoga classes, create digital content, or explore d
 ---
 
 🔗 Let's connect:  
-📧 jrmshrdd@memphis.edu | 🌐 [Portfolio](https://jrmshrdd.github.io/Jayashree_Portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/jrmshrdd)
+📧 jrmshrdd@memphis.edu 
 
