@@ -4,8 +4,15 @@
 
 🎓 Master's in Data Science @ University of Memphis  
 💡  Data Science | Machine Learning Enthusiast  
-🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=githubpages)](https://jrmshrdd.github.io/Jayashree_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jrmshrdd)
+🌐 <p align="center">
+  <a href="https://jrmshrdd.github.io/Jayashree_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Jayashree's%20Site-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jrmshrdd" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 
 
 ---
