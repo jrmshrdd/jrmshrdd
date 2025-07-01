@@ -3,8 +3,10 @@
 # 👋 Hi, I'm Jayashree Ramesh Reddy!
 
 🎓 Master's in Data Science @ University of Memphis  
-📊 Social Media Intern | 🧘 Yoga Instructor | 💡 Data Science Enthusiast  
-🌐 [Portfolio](https://jrmshrdd.github.io/Jayashree_Portfolio/) | [LinkedIn](https://www.linkedin.com/in/jrmshrdd)
+💡  Data Science | Machine Learning Enthusiast  
+🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=githubpages)](https://jrmshrdd.github.io/Jayashree_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jrmshrdd)
+
 
 ---
 
