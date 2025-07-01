@@ -26,12 +26,16 @@ With experience in classification, clustering, time series forecasting, and deep
 
 ### 🛠 Tech Stack
 
-- **Languages**: Python, R, SQL, HTML, CSS  
-- **ML/AI**: Scikit-learn, TensorFlow, PyTorch, CNNs, Transformers  
-- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Excel  
-- **Automation & Apps**: Power Apps, Power Automate, SharePoint  
-- **Cloud & Big Data**: AWS (S3, Lambda, SageMaker), Apache Spark, Snowflake  
-- **Database**: MySQL, PostgreSQL
+## 🌐 Connect With Me
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### 🧘 Outside of Data
